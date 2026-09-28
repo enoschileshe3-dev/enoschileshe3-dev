@@ -17,9 +17,9 @@ I work mainly in **Power BI, Excel and SQL**, and I use **Claude Code** to build
 </td>
 <td width="45%">
 
-Every title search order needs each party's name checked against US federal court records (PACER) and the US sanctions list (OFAC). For common names, doing this by hand could take 5–6 hours.
+Every title search order needs each party's name checked against US federal court records (PACER) and the US sanctions list (OFAC). For orders with common names, the whole order could take 5–6 hours by hand.
 
-Doxa runs both checks for a list of names and builds one print-ready PDF for the whole order. The check now takes minutes, and my team uses it at work. I built it on my own initiative with Claude Code.
+Doxa runs both checks for a list of names and builds one print-ready PDF for the whole order. Orders that took 5–6 hours now take about 2 to 3½ hours, and simple ones about 5 minutes. My team uses it at work. I built it on my own initiative with Claude Code.
 
 [Read the case study →](https://github.com/enoschileshe3-dev/doxa-case-study)
 
