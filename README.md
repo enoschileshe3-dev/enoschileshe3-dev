@@ -4,7 +4,7 @@ I'm a data analyst in Lusaka with a degree in economics from the University of Z
 
 I work mainly in **Power BI, Excel and SQL**, and I use **Claude Code** to build tools when a spreadsheet isn't enough. I'm most interested in economic and financial questions in Zambia and the region.
 
-[LinkedIn](https://linkedin.com/in/enos-chileshe) · [Email](mailto:enoschileshe3@gmail.com)
+[Website](https://enoschileshe.vercel.app) · [LinkedIn](https://linkedin.com/in/enos-chileshe) · [Email](mailto:enoschileshe3@gmail.com)
 
 ---
 
